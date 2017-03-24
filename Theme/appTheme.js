@@ -2,7 +2,7 @@ const appTheme =
  {
    	'mainTheme':
    	 {
-   		
+
       flexDirection: 'column',
       justifyContent:'center'
      },
@@ -31,7 +31,12 @@ const appTheme =
      'player_navigation_view':
      {
 
-       flexDirection: 'row'
+       flexDirection: 'row',
+
+     },
+     'player_navigation_button':
+     {
+       margin:5
      }
 
 
